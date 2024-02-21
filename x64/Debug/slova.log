@@ -1,0 +1,7 @@
+﻿  slova.cpp
+C:\Users\Fotters\source\repos\slova\slova.cpp(16,83): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+C:\Users\Fotters\source\repos\slova\slova.cpp(16,96): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+C:\Users\Fotters\source\repos\slova\slova.cpp(17,18): warning C4806: !=: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+C:\Users\Fotters\source\repos\slova\slova.cpp(17,83): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+C:\Users\Fotters\source\repos\slova\slova.cpp(17,96): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+  slova.vcxproj -> C:\Users\Fotters\source\repos\slova\x64\Debug\slova.exe
